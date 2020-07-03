@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="ETLBox" Version="2.0.2" />
+    <PackageReference Include="ETLBox.Csv" Version="1.0.1" />
+    <PackageReference Include="ETLBox.Excel" Version="1.0.1" />
+    <PackageReference Include="ETLBox.Odbc" Version="1.0.1" />
+    <PackageReference Include="ETLBox.Oracle" Version="1.0.1" />
+    <PackageReference Include="ETLBox.SqlServer" Version="1.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+  </ItemGroup>
+
+</Project>

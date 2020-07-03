@@ -1,0 +1,4 @@
+INT_id,VCH_DIST_NAME,INT_DIST_ID,vch_location,int_bed_capacity,int_facility_service_engazed,int_doctor_nurse_arrange,vch_status
+1,Angul,344,"Adarsha ITI,Rantalei, Angul",180,1,1,Operational
+2,Angul,344,"DPS, Banarpal",220,1,1,Operational
+3,Balangir,345,"New MCH Building, Titilagarh",100,1,1,Operational 
